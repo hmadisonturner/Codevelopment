@@ -1,5 +1,10 @@
 # Learning-First Development
 
+> My experiences have led me to believe that a person reading a program is, likewise, ready to comprehend it by learning its various parts in approximately the order in which it was written.
+
+—D. E. Knuth, Literate Programming, *The Computer Journal*, Volume 27, Issue 2, 1984, Pages 97–111, https://doi.org/10.1093/comjnl/27.2.97
+
+
 ## 🎓 Core Philosophy
 
 Learning-First Development (LFD) is a methodology that prioritizes educational value and conceptual clarity in software development. It's particularly suited for building systems where:
