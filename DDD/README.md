@@ -46,8 +46,6 @@ This approach improves development consistency and facilitates effective collabo
 
 ## Documentation Workflow
 
-TextCollector follows a documentation-driven development approach:
-
 1. **Specification Phase**
    - Create feature specifications in `/specifications`
    - Document architectural decisions in `/architecture/adr`
